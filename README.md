@@ -1,7 +1,8 @@
+# GOAL "Docker эзэмших"
+
 # docker-samples
 Dockerizing projects
 
-# CONTAINERIZING PROJECTS 
-> Here we gooooo
-
-zsh is good
+## CONTAINERIZING PROJECTS 
+- 1.real_amateur
+  - learn some docker basics and use it there.
