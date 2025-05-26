@@ -5,11 +5,11 @@ Dockerizing projects
 
 ## CONTAINERIZING PROJECTS 
 1.real_amateur
- - learn some docker basics and use it there.
+ - Learn some docker basics and apply them here.
 
 2.pg_test
- - this is from work lab. testing some containirez postgre images. 
+ - A work lab project for testing some containerized PostgreSQL images. 
 
 3.volume_test
- - creating volume
- - using different volume in same container
+ - Creating a volume
+ - Using different volumes in the same container
