@@ -13,3 +13,7 @@ Dockerizing projects
 3.volume_test
  - Creating a volume
  - Using different volumes in the same container
+
+4.multi_container
+ - Run multiple containers using docker compose
+ - Create a simple app uisng react, postgreSQL and Express
