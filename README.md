@@ -17,3 +17,6 @@ Dockerizing projects
 4.multi_container
  - Run multiple containers using docker compose
  - Create a simple app uisng react, postgreSQL and Express
+
+5.using_hub_images
+ - Use a custom Docker image from Docker Hub, customize it, and run it like an OS
