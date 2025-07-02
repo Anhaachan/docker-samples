@@ -20,3 +20,6 @@ Dockerizing projects
 
 5.using_hub_images
  - Use a custom Docker image from Docker Hub, customize it, and run it like an OS
+
+6.multi_stage_builds
+ - Building image with a multi stage.
