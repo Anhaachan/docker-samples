@@ -23,3 +23,7 @@ Dockerizing projects
 
 6.multi_stage_builds
  - Building image with a multi stage.
+
+7.python-docker
+ - Some example for using python. 
+  - fastAPI example
